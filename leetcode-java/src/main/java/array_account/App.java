@@ -9,7 +9,7 @@ public class App {
         map.put("1", "Name");
         map.put("2", "Adress");
         map.put("3", "Phone");
-        map.put("4", "PO Box");
+        map.put("4", "POBox");
         map.put("5", "Social Security");
 
         for (Map.Entry<String, String> entry : map.entrySet()) {
